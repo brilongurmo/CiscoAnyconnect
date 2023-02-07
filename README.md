@@ -25,6 +25,8 @@ CiscoAnyConnect Application
 
 4.	Enter your Wifi -network password/key and Security type if requested. Then click OK.
 
-5.	Verify the password/key is correct and Security type is match for the Wi-Fi-network if unable to establish connection.                                                 <img src="https://i.imgur.com/jj7wCQm.jpg" alt="osTicket logo"/>
+5.	Verify the password/key is correct and Security type is match for the Wi-Fi-network if unable to establish connection.                                               
+
+<img src="https://i.imgur.com/jj7wCQm.jpg" alt="osTicket logo"/>
   
   
