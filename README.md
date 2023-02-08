@@ -1,7 +1,7 @@
 
 <h1>How to Cisco Anyconnect VPN to connect to a company/home Wifi- network</h1>
 
-<h2>Objective</h2>
+<h2>Objective: Cisco Anyconnect is a virtual private network that provide users with secure access and security to work anywhere on their computer and mobile devices.</h2>
 
 <h2>Technology Used</h2>
 
